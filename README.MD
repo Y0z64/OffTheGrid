@@ -1,5 +1,7 @@
 # offtherecord
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ef970688-013a-474a-8b0e-0f280bb7facd/deploy-status)](https://app.netlify.com/sites/venerable-rabanadas-d32702/deploys)
+
 <div align="center" style="margin: 30px;">
     <a href="https://refine.dev">
     <img src="https://refine.ams3.cdn.digitaloceanspaces.com/refine_logo.png"  align="center" />
