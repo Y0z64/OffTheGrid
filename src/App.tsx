@@ -28,7 +28,6 @@ import { ColorModeContextProvider } from "./contexts/color-mode";
 import {
   BlogPostCreate,
   BlogPostEdit,
-  BlogPostList,
   BlogPostShow,
 } from "./pages/blog-posts";
 import {
@@ -38,6 +37,8 @@ import {
   CategoryShow,
 } from "./pages/categories";
 import { supabaseClient } from "./utility";
+
+import { BlogPostList } from "./pages/blog-posts/list/list";
 
 function App() {
   const { t, i18n } = useTranslation();
